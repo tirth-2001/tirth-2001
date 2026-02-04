@@ -49,6 +49,7 @@ Developer productivity tools · Intelligent UI patterns · Workflow automation
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Architecture & Patterns
 
@@ -75,17 +76,15 @@ Event‑driven patterns for React applications · Architectural exploration
 **🚀 Open Source & Experiments**
 VS Code extensions · NPM packages · Developer productivity tools
 
-> *Curated to reflect how I think — signal over volume.*
-
 ---
 
 ## 📊 GitHub Activity
 
 <div align="center">
+  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tirth-2001&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirth-2001\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth-2001\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=6)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tirth-2001&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
 </div>
 
@@ -105,11 +104,11 @@ I focus on AI use‑cases that:
 
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tirth-patel/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=About.me\&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tirth-patel-2001/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=About.me\&logoColor=white)](https://tirth-patel.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tirthgpatel.27@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=tirth-2001\&color=3b82f6\&style=for-the-badge)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=tirth-2001\&color=3b82f6\&style=for-the-badge) -->
 
 ---
 
